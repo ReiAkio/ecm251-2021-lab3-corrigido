@@ -1,4 +1,4 @@
-package carvalho.murilo.pedra_papel_tesoura_2.models;
+package thiago.akio.pedra_papel_tesoura_2.models;
 
 import carvalho.murilo.pedra_papel_tesoura_2.enumeracoes.Resultado;
 

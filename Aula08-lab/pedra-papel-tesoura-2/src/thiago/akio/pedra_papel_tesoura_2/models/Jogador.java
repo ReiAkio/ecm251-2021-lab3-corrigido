@@ -1,4 +1,4 @@
-package carvalho.murilo.pedra_papel_tesoura_2.models;
+package thiago.akio.pedra_papel_tesoura_2.models;
 
 public class Jogador {
     private String nome;

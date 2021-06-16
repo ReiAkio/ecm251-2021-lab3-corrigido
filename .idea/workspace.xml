@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="91494f0a-78c2-48c6-927d-df6a17734c68" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Aula08-lab/pedra-papel-tesoura-2/src/thiago/akio/pedra_papel_tesoura_2/models/Jogada.java" beforeDir="false" afterPath="$PROJECT_DIR$/Aula08-lab/pedra-papel-tesoura-2/src/thiago/akio/pedra_papel_tesoura_2/models/Jogada.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula08-lab/pedra-papel-tesoura-2/src/thiago/akio/pedra_papel_tesoura_2/models/Jogador.java" beforeDir="false" afterPath="$PROJECT_DIR$/Aula08-lab/pedra-papel-tesoura-2/src/thiago/akio/pedra_papel_tesoura_2/models/Jogador.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,8 +75,11 @@
     <option name="showMembers" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
@@ -100,6 +102,8 @@
       <option name="presentableId" value="Default" />
       <updated>1623868367724</updated>
       <workItem from="1623868370128" duration="91000" />
+      <workItem from="1623870597358" duration="24000" />
+      <workItem from="1623870625723" duration="4000" />
     </task>
     <servers />
   </component>

@@ -1,6 +1,6 @@
-package carvalho.murilo.pedra_papel_tesoura.models;
+package thiago.akio.pedra_papel_tesoura.models;
 
-import carvalho.murilo.pedra_papel_tesoura.enumeracoes.Resultado;
+import thiago.akio.pedra_papel_tesoura.enumeracoes.Resultado;
 
 public abstract class Jogada {
     final public Resultado verificaResultado(Jogada jogada) {
